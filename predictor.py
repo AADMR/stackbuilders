@@ -175,4 +175,4 @@ try:
                 option=False
 
 except KeyboardInterrupt: # If there is a KeyboardInterrupt (when you press ctrl+c), exit the program and cleanup
-    print ("Force closeing")
+    print ("Force closing")
